@@ -1,0 +1,5 @@
+/target
+/crates/frontend/dist
+/crates/frontend/public/map.json
+/crates/frontend/public/audio.mp3
+samples/
